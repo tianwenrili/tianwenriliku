@@ -73385,8 +73385,4 @@
 "2100-12-31":"腊月初一",
 "2101-01-01":"腊月初二",
 "2101-01-02":"腊月初三"
-};
-if (typeof module !== "undefined" && module.exports) {
-  module.exports = COMPACT_LUNAR_DATA;
-}
 }
